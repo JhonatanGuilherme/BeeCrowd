@@ -2,7 +2,7 @@
  
 int main() {
  
-    char S1[50], S2[50], S3[50];
+  char S1[50], S2[50], S3[50];
   scanf("%s", S1);
   setbuf(stdin, NULL);
   scanf("%s", S2);

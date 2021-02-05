@@ -1,6 +1,6 @@
 using System;
 
-class MainClass {
+class URI {
   public static void Main (string[] args) {
     string A = Console.ReadLine();
     double B = double.Parse(Console.ReadLine());
