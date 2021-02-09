@@ -27,8 +27,6 @@
   <a href="#bookmark_tabs-licença">Licença</a>
 </p>
 
-##
-
 > Códigos desenvolvidos na plataforma do URI Online Judge;
 
 ## **🛠️ Tecnologias utilizadas**
@@ -43,6 +41,6 @@ As seguintes tecnologias foram usadas:
 
 ## **📑 Licença**
 
-Este projeto está sob a licença MIT. Vejo o arquivo **[LICENSE](https://github.com/JhonatanGuilherme/URI-Online-Judge/blob/master/LICENSE)** para mais detalhes.
+Este projeto está sob a licença MIT. Vejo o arquivo **[LICENSE](./LICENSE)** para mais detalhes.
 
 Feito com 🧡 por **[Jhonatan Oliveira](https://github.com/JhonatanGuilherme)**.
