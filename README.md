@@ -36,6 +36,7 @@ As seguintes tecnologias foram usadas:
 - **[C](https://en.cppreference.com/w/c/)**
 - **[C++](https://www.cplusplus.com/)**
 - **[C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)**
+- **[PostgreSQL](https://www.postgresql.org/)**
 - **[Python](https://www.python.org/)**
 - **[VS Code](https://code.visualstudio.com/)**
 
