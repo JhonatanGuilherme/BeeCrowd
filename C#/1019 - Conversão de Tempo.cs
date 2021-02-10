@@ -1,6 +1,6 @@
 using System;
 
-class MainClass {
+class URI {
   public static void Main (string[] args) {
     int N = int.Parse(Console.ReadLine());
     int A = N / 3600;

@@ -1,6 +1,6 @@
 using System;
 
-class MainClass {
+class URI {
   public static void Main (string[] args) {
     double N = double.Parse(Console.ReadLine());
     int M = Convert.ToInt32(Convert.ToDouble((N % 1).ToString("0.00")) * 100);

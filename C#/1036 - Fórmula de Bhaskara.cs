@@ -2,7 +2,6 @@ using System;
 
 class URI {
   public static void Main (string[] args) {
-
     string[] V = Console.ReadLine().Split(' ');
 
     double A = double.Parse(V[0]);
@@ -15,10 +14,9 @@ class URI {
 
     if (A == 0 || DT < 0.0) {
       Console.WriteLine("Impossivel calcular");
-    }
-    else {  
+    } else {  
       Console.WriteLine("R1 = " + R1.ToString("0.00000"));
       Console.WriteLine("R2 = " + R2.ToString("0.00000"));
-	}
+	  }
   }
 }
