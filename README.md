@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="URI-Online-Judge" src="https://user-images.githubusercontent.com/60709647/106685204-b1fc2380-65a6-11eb-95eb-faf1ea0d9e0d.png" width="200"/>
+    <img alt="BeeCrowd" src="https://user-images.githubusercontent.com/60709647/153084258-12498afd-77da-4f4a-8119-8f65f287a573.png" width="200"/>
 </h1>
 
 <p align="center">
@@ -7,10 +7,10 @@
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatanguilherme/)"/>
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JhonatanGuilherme/URI-Online-Judge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JhonatanGuilherme/BeeCrowd">
   
-  <a href="https://github.com/JhonatanGuilherme/URI-Online-Judge/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JhonatanGuilherme/URI-Online-Judge">
+  <a href="https://github.com/JhonatanGuilherme/BeeCrowd/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JhonatanGuilherme/BeeCrowd">
   </a>
   
   <a href="./LICENSE">
@@ -19,7 +19,7 @@
 </p>
 
 <h2 align="center"> 
-    URI Online Judge
+    Bee Crowd
 </h2>
 
 <p align="center">
