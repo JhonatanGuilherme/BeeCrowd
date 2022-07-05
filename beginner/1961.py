@@ -5,4 +5,4 @@ frog_can_reach = True
 for i in range(N - 1):
   if abs(H[i] - H[i + 1]) > P:
     frog_can_reach = False
-print("YOU WON" if frog_can_reach else "GAME OVER")
+print("YOU WIN" if frog_can_reach else "GAME OVER")
