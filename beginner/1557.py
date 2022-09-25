@@ -15,7 +15,7 @@ while True:
   length_higher_value = len(str(matrix[-1][-1]))
   for i in range(len(matrix)):
     for j in range(len(matrix)):
-      space_between_values = (length_higher_value - len(str(matrix[i][j])))
-      print(matrix[i][j], " " * space_between_values, end="")
+      space_between_values = (length_higher_value - len(str(matrix[i][j]))) * " "
+      print((" " if j > 0 else "") + space_between_values + str(matrix[i][j]), end="")
     print("")
   print("")
