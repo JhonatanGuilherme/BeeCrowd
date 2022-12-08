@@ -1,6 +1,5 @@
-A, B = map(float, input().split())
-if A > 0:
-  Q = int(A / B)
-  print(Q, int(-(B * Q - A)))
-else:
-  print(int(A // B), int(A % B))
+a, b = map(int, input().split())
+x = abs(a)
+y = abs(b)
+q = x // y
+r = x % y
